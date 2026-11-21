@@ -1,8 +1,8 @@
 # AURELIA — The Poster for a Place That Isn't There
 
-[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/faridamaharini-cell/makefun-poster-place-isnt-there/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard)
-[![AURELIA](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/faridamaharini-cell/makefun-poster-place-isnt-there.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/faridamaharini-cell/makefun-poster-place-isnt-there/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/faridamaharini-cell/makefun-poster-place-isnt-there/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
 A travel poster for **AURELIA, the city that floats above the clouds** — a place that does not exist. Golden-hour light, a ringed planet, god rays, a spired city on a floating island, waterfalls falling into a sea of clouds, and airships crossing the sky. Built for the make.fun bounty [The Poster for a Place That Isn't There](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539).
 
